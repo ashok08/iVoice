@@ -10,7 +10,7 @@ import AgoraRtcKit
 import AgoraRtmKit
 
 //MARK: - GlobalVariables
-var appId =  "1932ae6709324749ac52313f78215b75"
+var appId =  "YOUR_APP_ID"
 var isSpeaker = false
 var username  =  String()
 var token  =  String()
